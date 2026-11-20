@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andromedaone1.github.io/pgn-reader-site/sitemap.xml

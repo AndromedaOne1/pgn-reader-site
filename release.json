@@ -1,0 +1,11 @@
+{
+  "version": "1.6.3",
+  "sha256": "65605a8e2b22fcdd5b8572a28e1f120fbb59f88ecbaf808745eb1bd93650566d",
+  "size": 11962668,
+  "download": "https://github.com/AndromedaOne1/pgn-reader-site/releases/download/v1.6.3/PGN-Reader-1.6.3-macOS-Universal.dmg",
+  "platforms": [
+    "macOS 12+",
+    "Intel",
+    "Apple Silicon"
+  ]
+}
