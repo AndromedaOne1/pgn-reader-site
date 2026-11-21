@@ -48,9 +48,9 @@ const galleryTabs = [...document.querySelectorAll('.gallery-tab')];
 const galleryPanels = galleryTabs.map(tab => document.getElementById(tab.getAttribute('aria-controls')));
 const galleryCaption = document.querySelector('#gallery-caption');
 const galleryCaptions = [
-  'Доска, ходы и линии анализа — всё перед глазами.',
-  'Подсветите поле. Покажите идею. Продолжайте разбор.',
-  'Комментарии и оценки помогают сохранить ход мысли.'
+  'После 2…Nc6: три продолжения — Bc4, Bb5 и d4.',
+  'После 3.Bc4: стрелка c4–f7 и выделенное поле f7 из разметки PGN.',
+  'Комментарий к 3.Bc4 объясняет идею: давление на слабое поле f7.'
 ];
 let galleryTransition = null;
 function selectGallery(index, focus = false) {
